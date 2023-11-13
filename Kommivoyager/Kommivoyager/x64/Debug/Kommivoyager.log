@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\vanya\source\repos\Kommivoyager\Kommivoyager\main.cpp(25,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Kommivoyager.vcxproj -> C:\Users\vanya\source\repos\Kommivoyager\x64\Debug\Kommivoyager.exe
